@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TheNewC0der-24/JSON-Server/issues"
   },
-  "homepage": "https://github.com/TheNewC0der-24/JSON-Server#readme"
+  "homepage": "https://github.com/TheNewC0der-24/JSON-Server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
 }
