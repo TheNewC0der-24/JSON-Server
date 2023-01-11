@@ -6,8 +6,9 @@ Sometimes we need some data for testing Front-end, JSON Server provides a mock A
 ## Features
 * Create Mock API
 * Responsive UI
-* Fetch data from the JSON Server.
-* Filter the data which is fetch from the JSON server.
+* Fetch data from the hosted server.
+
+>**You can fetch data from the JSON Server. Also, you can filter the data which can be fetch from the JSON server.**
 
 ## Built With
 |HTML|Tailwind CSS|Javascript|JSON|Json-Server|
@@ -20,7 +21,7 @@ npm i json-server
 ```
 
 ## Preview
-![image]()
+![image](https://github.com/TheNewC0der-24/JSON-Server/blob/master/Preview.png)
 
 ## Link of JSON API 
 ```
@@ -31,6 +32,18 @@ https://thenewc0der-24.github.io/JSON-Server/Database/db.json
 ```
 https://thenewc0der-24.github.io/JSON-Server/
 ```
+
+# Steps to Run the application on local system
+
+1. Clone this repository in your local system.
+2. Start the application from `index.html` file using live server.
+
+## To start the json-server locally 
+run the 👇 command
+```
+npm start
+```
+>above command will start the server on [http://localhost:3000/user](http://localhost:3000/user).
 
 --- 
 <h3 align='center'>Hope you like this application :)</h3>
