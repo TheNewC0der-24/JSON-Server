@@ -43,7 +43,10 @@ run the 👇 command
 ```
 npm start
 ```
->above command will start the server on [http://localhost:3000/user](http://localhost:3000/user).
+>above command will start the server on [http://localhost:3000](http://localhost:3000).
+
+## You can get Resources from 👇 link
+[http://localhost:3000/user](http://localhost:3000/user)
 
 --- 
 <h3 align='center'>Hope you like this application :)</h3>
