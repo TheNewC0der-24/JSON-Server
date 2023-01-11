@@ -21,7 +21,7 @@ npm i json-server
 ```
 
 ## Preview
-![image](https://github.com/TheNewC0der-24/JSON-Server/blob/master/Preview.png)
+![image](https://github.com/TheNewC0der-24/JSON-Server/blob/master/Assets/Preview.png)
 
 ## Link of JSON API 
 ```
